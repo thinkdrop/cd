@@ -1,0 +1,13 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "devshop/behat-drupal-extension": "dev-master"
+  },
+  "config": {
+    "bin-dir": "bin",
+    "sort-packages": true,
+    "platform": {
+      "php": "5.5.9"
+    }
+  }
+}
